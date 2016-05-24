@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ilya Borisenko](https://up.htmlacademy.ru/adaptive/7/user/39390).
-* Наставник: `Неизвестно`.
+* Наставник: [Балабанович Владислав](https://htmlacademy.ru/profile/id6394).
 
 ---
 
